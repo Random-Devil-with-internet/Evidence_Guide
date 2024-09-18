@@ -13,7 +13,6 @@ Examples include:
 
 To begin making a webpage you need to add the html tag in the html tags you add the head and body tags. Inside the head tag you put the metadata about the webpage in and the body tags is where you put the content and the structure of the webpage.
 
-Examples include:
 ```html
 <html>
 

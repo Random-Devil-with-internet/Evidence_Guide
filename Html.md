@@ -11,5 +11,5 @@ Examples include:
 ```
 
 
-To begin making a webpage you need to add the html tag in the html tags you add the head and body tages. Inside the head tag you put the metadata about the webpage in.
+To begin making a webpage you need to add the html tag in the html tags you add the head and body tages. Inside the head tag you put the metadata about the webpage in and the body tages is where you put the content an the structurire of the webpage.
 

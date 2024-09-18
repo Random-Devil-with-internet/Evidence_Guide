@@ -16,14 +16,17 @@ To begin making a webpage you need to add the html tag in the html tags you add 
 Examples include:
 ```html
 <html>
+
 <head>
 <title>Title of the webpage</title>
 </head>
+
 <body>
 <h1>Heading</h1>
 <h2>Sub-heading</h2>
 <p>Paragraph</p>
 </body>
+
 </html>
 ```
 

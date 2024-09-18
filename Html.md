@@ -29,4 +29,5 @@ To begin making a webpage you need to add the html tag in the html tags you add 
 
 </html>
 ```
-##Images
+## Images
+Images in html are done by using the img tag inside the tag you put the attributes, the source of the image and alt text for the image to display incase the image dose not load probably. 

@@ -1,7 +1,8 @@
 # Html
 Html is a markup language that is used to make the structure and the content of webpages. Styling in webpages is done through css instead of html. 
 
-Html syntax uses tags to declare which type of element it is. An element being a component in the web page and to implement text in an element you put it between the tags.
+## Syntax
+Html uses tags to declare which type of element it is. An element being a component in the web page and to implement text in an element you put it between the tags.
 
 Examples include:
 ```html

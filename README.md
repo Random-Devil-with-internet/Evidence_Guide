@@ -1,2 +1,2 @@
 # Evidence Guide
-This github repository is used as a evidnece guide for the term 3 programing assignment
+This github repository is used as a evidnece guide to show my understading of the concepts learned in this second semester eg. html.

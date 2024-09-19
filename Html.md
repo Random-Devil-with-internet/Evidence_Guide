@@ -1,5 +1,5 @@
 # Html
-Html is a markup language that is used to make the structure and the content of webpages. Styling in webpages is done through css instead of html. 
+In week 1 I learned about Html which is a markup language that is used to make the structure and the content of webpages. Styling in webpages is done through css instead of html. 
 
 ## Syntax
 Html uses tags to declare which type of element it is. An element being a component in the web page and to implement text in an element you put it between the tags.
@@ -35,3 +35,6 @@ Images in html are done by using the img tag inside the tag you put the attribut
 ```html
 <img src="Image.png" alt="Image">
 ```
+
+## Reflection
+Now that I have leraned how to use html to make the structure of a website and how to  I ahve gained knowledge about 

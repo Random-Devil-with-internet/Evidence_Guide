@@ -37,4 +37,4 @@ Images in html are done by using the img tag inside the tag you put the attribut
 ```
 
 ## Reflection
-Now that I have learned how to use html to make the structure of a website and how to add content eg. text and images. I have gained knowledge about how websites are made, edited and the behind the scenes of websites and this experience will come in handy in the making of assignment 1 for the website that I will have to build or if I need to build one in the future.
+Now that I have learned how to use html to make the structure of a website and how to add content eg. text and images. I have gained knowledge about how websites are made, edited and the behind the scenes of websites and this experience will come in handy in the making of assignment 1 for the website that I will have to build or if I need to build one in the future. Html is also useful to know before you start learning css and javascript for website development.

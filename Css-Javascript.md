@@ -19,9 +19,8 @@ How you put css in a html file is by either using a external file or puting it i
 Example:
 ```css
 <link rel="stylesheet" href="style.css">
-
-/* or *./
-
+```
+```html
 <style>
 p {
   color: rgb(255, 255, 255);

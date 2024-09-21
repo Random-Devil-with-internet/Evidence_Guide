@@ -1,10 +1,10 @@
 # Css & JavaScript
 
 # Css
-In week 2 I learned css. Css instead of being a markkup language is a stylesheet language that is used togather with html to add style and layout to a website.
+In week 2 I learned css. Css instead of being a markup language is a stylesheet language that is used together with html to add style and layout to a website.
 
 ## Syntax
-In html you have elements eg. h1, p, img to add style to a sperific element you have to type the element as you would in html but with out the arrows outside it. Instead you put curly brackets after the element. Inside the curly brackets you put all the properties of the element. Properties can be color, width, font type, etc. and after each propertde you put a colon with the value ending with a semicolon.
+In html you have elements eg. h1, p, img to add style to a specific element you have to type the element as you would in html but without the arrows outside it. Instead you put curly brackets after the element. Inside the curly brackets you put all the properties of the element. Properties can be color, width, font type, etc. and after each property you put a colon with the value ending with a semicolon.
 
 Example:
 ```css
@@ -14,7 +14,7 @@ p {
   font-size: 14px;
 }
 ```
-How you put css in a html file is by either using a external file or puting it in to the html file. You can also put the css in Inline but that will not be coverded. To link an external css file you need to ues a link tage, inside the link tage there are two attributes href, rel. The href attribute is the file path, the rel attribute is to indicate that it is a style sheet. To put the css into the html file you put the css inside two style tags.
+How you put css in a html file is by either using an external file or putting it into the html file. You can also put the css in Inline but that will not be covered. To link an external css file you need to use a link tag, inside the link tag there are two attributes href, rel. The href attribute is the file path, the rel attribute is to indicate that it is a style sheet. To put the css into the html file you put the css inside two style tags.
 
 Example:
 
@@ -35,4 +35,4 @@ p {
 ```
 
 # JavaScript
-In week 3 I learned JavaScript which is a proper programing language this time. JavaScript is mostly used on websites to program interatcive and behaviorral features.
+In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features.

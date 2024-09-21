@@ -9,7 +9,7 @@ In html you have elements eg. h1, p, img to add style to a sperific element you 
 Example:
 ```css
 p {
-  color: rgb(255, 255, 255); /* white
+  color: rgb(255, 255, 255); /* white */
   font-family: Arial, sans-serif;
   font-size: 14px;
 }

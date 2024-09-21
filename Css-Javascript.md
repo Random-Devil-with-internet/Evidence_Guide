@@ -14,3 +14,4 @@ p {
   font-size: 14px;
 }
 ```
+How you put css in a html file is by either using a external file or puting it in to the html file. To link an external css file you need to ues a link tage, inside the link tage there are three attributes href, rel, type

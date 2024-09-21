@@ -20,7 +20,7 @@ Example:
 ```css
 <link rel="stylesheet" href="style.css">
 
-/* or
+/* or *./
 
 <style>
 p {

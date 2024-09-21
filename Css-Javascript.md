@@ -35,4 +35,6 @@ p {
 ```
 
 # JavaScript
-In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features.
+In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already leared python.
+
+## How to ues a button with JavaScript

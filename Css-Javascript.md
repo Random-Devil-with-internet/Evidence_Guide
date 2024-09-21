@@ -37,8 +37,8 @@ p {
 # JavaScript
 In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already leared python.
 
-## How to ues a button with JavaScript
-You first need to make a function inside that function you will put the paragraph's id after it you type in '.textContent' and assgin a string to it. Next outside the function you put the button's id but this time you type '.onclick' and assgin the fuction above to it.
+## How to use a button with JavaScript
+You first need to make a function inside that function you will put the paragraph's id after it you type in '.textContent' and assign a string to it. Next outside the function you put the button's id but this time you type '.onclick' and assign the function above to it.
 
 ```html
 <p id="Paragraph">Paragraph</p>
@@ -53,4 +53,4 @@ function Click() {
 Button.onclick = Click;
 </script>>
 ```
-What this code dose is that when you press the button the text in the paragraph gets updated with the new text.
+What this code does is that when you press the button the text in the paragraph gets updated with the new text.

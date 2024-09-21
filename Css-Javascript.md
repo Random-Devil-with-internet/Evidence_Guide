@@ -38,3 +38,4 @@ p {
 In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already leared python.
 
 ## How to ues a button with JavaScript
+You first need to make a fuction inside that fuction you will put the button's id after it type in '.textContent' and assgin a string. Next 

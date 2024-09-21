@@ -51,6 +51,6 @@ function Click() {
 };
 
 Button.onclick = Click;
-</script>>
+</script>
 ```
 What this code does is that when you press the button the text in the paragraph gets updated with the new text.

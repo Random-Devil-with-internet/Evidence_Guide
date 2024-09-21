@@ -1,4 +1,7 @@
 # Css & Javascript
 
-## Css
-Instead of being a markkup langauce css is a stylesheet language that is used togather with html to add style and layout to a website 
+# Css
+In week 2 I learned css. Css instead of being a markkup langauce is a stylesheet language that is used togather with html to add style and layout to a website.
+
+## Syntax
+In html you have elements eg. h1, p, img to add style to a sperific element you have to type the element as you would in html but with out the arrows outside it. Instead you put curly brackets after the element. In side the curly brackets you put all the 

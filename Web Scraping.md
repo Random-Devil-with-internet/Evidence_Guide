@@ -25,4 +25,6 @@ for link in soup.find_all('a'):
 ```
 
 ## Selenium
+Selenium is a python package for automating a web bowser which can be uesed to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping.
+
 ## Reflection

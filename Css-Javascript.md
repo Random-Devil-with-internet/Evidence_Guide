@@ -55,6 +55,6 @@ Button.onclick = Click;
 ```
 What this code does is that when you press the button the text in the paragraph gets updated with the new text.
 
-![Html button unpressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button.png =100x20)
-![Html button pressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button_2.png =100x20)
+![Html button unpressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button.png)
+![Html button pressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button_2.png)
 

@@ -25,6 +25,6 @@ for link in soup.find_all('a'):
 ```
 
 ## Selenium
-Selenium is a python package for automating a web bowser which can be uesed to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping.
+Selenium is a python package for automating a web bowser which can be uesed to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping and other utilizations. To ues selenium you first need to get a web driver Chrome, Firefox, Safari and Edge all work. Next you import the web driver by using this bit of code 'from selenium import webdriver'. Then you need to let the bot locate elements within the html document and let it controll the keys on your keyboard 'from selenium.webdriver.common.by import By from selenium.webdriver.common.keys import Keys'. To initialize the web driver 'driver = webdriver.Chrome()'.
 
 ## Reflection

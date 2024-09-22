@@ -74,6 +74,22 @@ Paragraph.textContent = inputValue;
 Button.onclick = Click;
 </script>
 ```
+With the document.getElementById and adding .style with the property you can also change the properties of the element eg. font size and colour.
+```html
+<p id="Paragraph">Paragraph</p>
+<input type="text" id="Input" />
+<button id="Button">Button</button>
 
+<script>
+function Click() {
+const input = document.getElementById("Input");
+const inputValue = input.value;
+document.getElementById("Paragraph").style.color = inputValue;
+};
+
+Button.onclick = Click;
+</script>
+```
+# Reflection
 
 

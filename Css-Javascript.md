@@ -35,7 +35,7 @@ p {
 ```
 
 # JavaScript
-In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already leared python.
+In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already leared python. To put the JavaScirpt in the html file you do it the same way as you would in css you just instead of the style tag you ues the script tag.
 
 ## How to use a button with JavaScript
 You first need to make a function inside that function you will put the paragraph's id after it you type in '.textContent' and assign a string to it. Next outside the function you put the button's id but this time you type '.onclick' and assign the function above to it.

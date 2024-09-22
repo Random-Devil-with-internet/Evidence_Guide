@@ -58,3 +58,22 @@ What this code does is that when you press the button the text in the paragraph 
 ![Html button unpressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button.png)
 ![Html button pressed with JavaScript](https://github.com/Random-Devil-with-internet/Evidence_Guide/blob/main/Button_2.png)
 
+You can also use diffrent inputs in html like the text box combained with the button to change the text with the input form the text box.
+```html
+<p id="Paragraph">Paragraph</p>
+<input type="text" id="Input" />
+<button id="Button">Button</button>
+
+<script>
+function Click() {
+const input = document.getElementById("Input");
+const inputValue = input.value;
+Paragraph.textContent = inputValue;
+};
+
+Button.onclick = Click;
+</script>
+```
+
+
+

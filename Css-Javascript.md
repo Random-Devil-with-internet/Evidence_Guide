@@ -91,5 +91,4 @@ Button.onclick = Click;
 </script>
 ```
 # Reflection
-After I have leared about how to control the style and behaviour of a website using css and JavaScript I can now apply that knowledge to help with my assignment for making the website and if I ever hane to 
-
+After I have leared about how to control the style and behaviour of a website using css and JavaScript I can now apply that knowledge to help with making the website for my assignment that will require the skills that I learned above. If I ever have to do web development in the future I will know how to code the style and functionality of a website. By knowing a wider range of computer languages I can learn and adapt to new scenarios in programing.

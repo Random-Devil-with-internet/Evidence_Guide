@@ -14,7 +14,7 @@ p {
   font-size: 14px;
 }
 ```
-How you put css in a html file is by either using an external file or putting it into the html file. You can also put the css in Inline but that will not be covered. To link an external css file you need to use a link tag, inside the link tag there are two attributes href, rel. The href attribute is the file path, the rel attribute is to indicate that it is a style sheet. To put the css into the html file you put the css inside two style tags.
+How you put css in a html document is by either using an external file or putting it into the html document. You can also put the css in Inline but that will not be covered. To link an external css file you need to use a link tag, inside the link tag there are two attributes href, rel. The href attribute is the file path, the rel attribute is to indicate that it is a style sheet. To put the css into the html document you put the css inside two style tags.
 
 Example:
 
@@ -35,7 +35,7 @@ p {
 ```
 
 # JavaScript
-In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already learned python. To put the JavaScript in the html file you do it the same way as you would in css you just instead of the style tag you use the script tag.
+In week 3 I learned JavaScript which is a proper programming language this time. JavaScript is mostly used on websites to program interactive and behavioural features. This guide will not show you the basic syntax nor the structure of JavaScript since I have already learned python. To put the JavaScript in the html document you do it the same way as you would in css you just instead of the style tag you use the script tag.
 
 ## How to use a button with JavaScript
 You first need to make a function inside that function you will put the paragraph's id after it you type in '.textContent' and assign a string to it. Next outside the function you put the button's id but this time you type '.onclick' and assign the function above to it.

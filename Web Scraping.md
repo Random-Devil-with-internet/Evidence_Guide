@@ -42,4 +42,6 @@ for i in link:
 ```
 
 ## Reflection
-The skills that I have learned from web scrapping is the you can data and content form a website using a bot, you can automate a web browser which is helpfulll for automatically filling in forms, web scraping, repetitive tasks and functionality testing.
+The skills that I have learned from web scrapping is the you can data and content form a website using a bot, you can automate a web browser which is helpfulll for automatically filling in forms, web scraping, repetitive tasks and functionality testing. Kowning these skills will assit me in the future especially if I get a job in IT. 
+
+The ethical considerations of web scrapping are 

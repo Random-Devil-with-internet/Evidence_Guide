@@ -6,7 +6,7 @@ BeautifulSoup is a python package for extracting data from html and xml document
 
 How you use BeautifulSoup is by first using another python package Requests that will get the HTTP request to the website of the URL then you add the HEADERS variable to make the bot look like that it is a valid browser overwise the website might reject the bot. 
 
-Then using BeautifulSoup you make the html document into a parse tree by using 'BeautifulSoup(page.content, "html.parser")'. The soup variable stores the tree parser of the html document. Next depending on what you want to extract from the html document I will for this evidence guide extract all of the links from a webpage. To do this you type 'link in' and after that you ues 'soup.find_all('a')' to find all the hyperlink tags in the html document. Then you loop though all of the hyperlink tags printing them in the terminal.
+Then using BeautifulSoup you make the html document into a parse tree by using 'BeautifulSoup(page.content, "html.parser")'. The soup variable stores the tree parser of the html document. Next depending on what you want to extract from the html document I will for this evidence guide extract all of the links from a webpage. To do this you type 'link in' and after that you use 'soup.find_all('a')' to find all the hyperlink tags in the html document. Then you loop through all of the hyperlink tags printing them in the terminal.
 
 ```python
 import requests
@@ -25,9 +25,9 @@ for link in soup.find_all('a'):
 ```
 
 ## Selenium 
-Selenium is a python package for automating a web bowser which can be used to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping and other utilizations. To use selenium you first need to get a web driver Chrome, Firefox, Safari and Edge all work. Next you import the web driver by using this bit of code 'from selenium import webdriver'. Then you need to let the bot locate elements within the html document and you can also let it control the keys on your keyboard 'from selenium.webdriver.common.by import By'. To initialise the web driver you type 'driver = webdriver.Chrome()' or what ever web driver you are using. 
+Selenium is a python package for automating a web browser which can be used to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping and other utilizations. To use selenium you first need to get a web driver Chrome, Firefox, Safari and Edge all work. Next you import the web driver by using this bit of code 'from selenium import webdriver'. Then you need to let the bot locate elements within the html document and you can also let it control the keys on your keyboard 'from selenium.webdriver.common.by import By'. To initialise the web driver you type 'driver = webdriver.Chrome()' or whatever web driver you are using. 
 
-You then get the website that you want selenium to ues and find the element in the html documnet. Then you print the element in the terminal by using a for loop.
+You then get the website that you want selenium to use and find the element in the html document. Then you print the element in the terminal by using a for loop.
 
 ```python
 from selenium import webdriver

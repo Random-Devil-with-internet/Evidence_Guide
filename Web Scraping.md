@@ -25,12 +25,20 @@ for link in soup.find_all('a'):
 ```
 
 ## Selenium 
-Selenium is a python package for automating a web bowser which can be used to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping and other utilizations. To use selenium you first need to get a web driver Chrome, Firefox, Safari and Edge all work. Next you import the web driver by using this bit of code 'from selenium import webdriver'. Then you need to let the bot locate elements within the html document and let it control the keys on your keyboard 'from selenium.webdriver.common.by import By from selenium.webdriver.common.keys import Keys'. To initialise the web driver you type 'driver = webdriver.Chrome()' or what ever web driver you are using. 
+Selenium is a python package for automating a web bowser which can be used to do repetitive and tedious tasks that a human would find boring, automate filling in forms and web Scraping and other utilizations. To use selenium you first need to get a web driver Chrome, Firefox, Safari and Edge all work. Next you import the web driver by using this bit of code 'from selenium import webdriver'. Then you need to let the bot locate elements within the html document and you can also let it control the keys on your keyboard 'from selenium.webdriver.common.by import By'. To initialise the web driver you type 'driver = webdriver.Chrome()' or what ever web driver you are using. 
 
-You then get the website that you want selenium to ues and find the element in the html documnet. Then you print the element in the terminal.
+You then get the website that you want selenium to ues and find the element in the html documnet. Then you print the element in the terminal by using a for loop.
 
 ```python
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
+driver = webdriver.Chrome()
+driver.get("https://www.wikipedia.org/")
+link = driver.find_elements(By.TAG_NAME, 'a') 
+
+for i in link: 
+    print(i.text)
 ```
 
 ## Reflection

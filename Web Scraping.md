@@ -42,6 +42,6 @@ for i in link:
 ```
 
 ## Reflection
-The skills that I have learned from web scrapping is the you can data and content form a website using a bot, you can automate a web browser which is helpfulll for automatically filling in forms, web scraping, repetitive tasks and functionality testing. Kowning these skills will assit me in the future especially if I get a job in IT. 
+The skills that I have learned from web scraping is that you can data and content form a website using a bot, you can automate a web browser which is helpfulll for automatically filling in forms, web scraping, repetitive tasks and functionality testing. Knowing these skills will assist me in the future especially if I get a job in IT. 
 
-The ethical considerations of web scrapping are not to get people's private information without consnet eg. full name, email and phone number. Do not brech the terms of service of the website because they may ban web scrapping for over loading there server and higher costs of running a server. Robots.txt is a text file that is used to give guidelines to bots to tell them if they are allowed to web scrap the website or not and if alowed which bits of it.
+The ethical considerations of web scraping are not to get people's private information without consent eg. full name, email and phone number. Do not breach the terms of service of the website because they may ban web scraping for overloading their server and higher costs of running a server. Robots.txt is a text file that is used to give guidelines to bots to tell them if they are allowed to web scrape the website or not and if allowed which bits of it.
